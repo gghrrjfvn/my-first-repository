@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    color: darkblue;
+}
+
+h2 {
+    color: brown;
+}
+
+table {
+    border: 1px solid brown;
+    color: darkblue;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid brown
+}
